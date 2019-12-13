@@ -1,6 +1,6 @@
 To initialize your local repository, use this command:
 
-	repo init -u https://github.com/MagmaProject/manifest.git -b ten
+	repo init -u https://github.com/Magma-WIP/manifest.git -b ten
 
  Then to sync up:
 
