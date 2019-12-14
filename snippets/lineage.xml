@@ -107,6 +107,7 @@
   
   <!-- System -->
   <project path="system/bt" name="android_system_bt" remote="lineage" />
+  <project path="system/keymaster" name="android_system_keymaster" remote="lineage" />
   <project path="system/tools/dtbtool" name="android_system_tools_dtbtool" remote="lineage" />
 
   <!-- Vendor -->
