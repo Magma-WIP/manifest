@@ -65,7 +65,7 @@
   <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" remote="magma" />
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="magma" />
   <project path="packages/apps/Traceur" name="packages_apps_Traceur" remote="magma" />
-  <project path="packages/apps/Updater" name="packages_apps_Updater" remote="magma" />
+  <project path="packages/apps/Updater" name="packages_apps_Updater" remote="wip" />
   <project path="packages/apps/WallpaperPicker2" name="packages_apps_WallpaperPicker2" remote="magma" />
   <project path="packages/inputmethods/LatinIME" name="packages_inputmethods_LatinIME" remote="magma" />
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="magma" />
